@@ -1,3 +1,0 @@
-[submodule "cpp/ext/icu-ios"]
-	path = cpp/ext/icu-ios
-	url = git@github.com:jossgb/icu-ios.git
